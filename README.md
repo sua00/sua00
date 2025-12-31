@@ -4,7 +4,7 @@
 
 **Hi there 👋**
 
-🚀 저는 DATA/AI 엔지니어링을 공부하고 있는 학생입니다🚀 
+🚀 I’m a Data & AI Engineering student focused on machine learning, data-driven systems, and real-world applications. 🚀
 
 #### ✉️ Contact
 <a href="mailto:suasua0105@gmail.com">
