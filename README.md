@@ -34,5 +34,5 @@
 
 ## 🏆 Honors & Awards
 
-- **KCC 2025 – Outstanding Paper Award (Undergraduate)**   
+- **Korea Computer Congress(KCC) 2025 – Outstanding Paper Award (Undergraduate)**   
   - Paper on RAG-based Harry Potter character chatbot systems
