@@ -25,4 +25,14 @@
 
 <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>&nbsp;
 
+## 🧠 Research Experience
 
+- **Undergraduate Research Assistant, AMI Lab**   
+  - Research on persona-consistent conversational agents using RAG  
+  - Proposed prompt-based pipelines without fine-tuning  
+  - Evaluated LLM responses with multi-judge and consistency metrics  
+
+## 🏆 Honors & Awards
+
+- **KCC 2025 – Outstanding Paper Award (Undergraduate)**   
+  - Paper on RAG-based Harry Potter character chatbot systems
