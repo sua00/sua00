@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Hi there 👋**
+### **Hi there 👋**
 
 🚀 I’m a Data & AI Engineering student focused on machine learning, data-driven systems, and real-world applications. 🚀
 
