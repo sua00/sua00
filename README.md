@@ -21,6 +21,5 @@
 **🛠️ Infra and Tools**
 <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>&nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sua00&layout=compact)
 
 </div>
